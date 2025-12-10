@@ -1,0 +1,28 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  font-family: "DotGothic16", sans-serif;
+  background-color: #000000;
+  /* Pattern kotak-kotak ala web lama */
+  background-image: 
+    linear-gradient(#111 1px, transparent 1px),
+    linear-gradient(90deg, #111 1px, transparent 1px);
+  background-size: 20px 20px;
+  color: #e0e0e0;
+}
+
+/* Custom Scrollbar Retro */
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-track {
+  background: #222; 
+}
+::-webkit-scrollbar-thumb {
+  background: #00ff41; /* Hijau Hacker/Matrix */
+  border: 2px solid #000;
+}
