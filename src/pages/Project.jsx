@@ -7,7 +7,7 @@ const projectsData = [
     desc: "Retro-style portfolio website using React.",
     tags: ["React", "Tailwind", "Vite"],
     image: "/work.png",
-    url: "https://www.google.com/recaptcha/admin/create",
+    url: "https://prtfolio-phi.vercel.app/",
     year: "2025"
   },
 ];
