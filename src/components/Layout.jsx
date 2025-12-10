@@ -14,7 +14,7 @@ const Layout = () => {
               <h1 className="text-4xl md:text-6xl text-yellow-400 uppercase tracking-widest drop-shadow-md">
                 Prt<span className="text-white">Folio</span>
               </h1>
-              <p className="text-blue-300 text-lg">--- EST. 2025 ---</p>
+              {/* <p className="text-blue-300 text-lg">--- EST. 2025 ---</p> */}
             </div>
             <div className="text-right hidden md:block">
               <span className="animate-pulse text-green-500">● ONLINE</span>
