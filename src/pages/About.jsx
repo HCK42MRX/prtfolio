@@ -10,7 +10,7 @@ const About = () => {
         {/* KOLOM KIRI: AVATAR / IDENTITAS */}
         <div className="bg-blue-900/20 border-2 border-blue-500 p-4 text-center">
           <div className="w-32 h-32 mx-auto bg-gray-800 border-4 border-white mb-4 flex items-center justify-center overflow-hidden relative">
-             <img src="src/assets/profile_picture.webp" alt="Avatar" className="text-4xl group-hover:hidden" />
+             <img src="/profile_picture.webp" alt="Avatar" className="text-4xl group-hover:hidden" />
           </div>
           
           <h2 className="text-xl text-white font-bold bg-blue-600 inline-block px-2">BAGAS_A.</h2>

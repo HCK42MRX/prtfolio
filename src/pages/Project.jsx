@@ -6,7 +6,7 @@ const projectsData = [
     title: "PRTFOLIO",
     desc: "Retro-style portfolio website using React.",
     tags: ["React", "Tailwind", "Vite"],
-    image: "src/assets/work.png",
+    image: "/work.png",
     url: "https://www.google.com/recaptcha/admin/create",
     year: "2025"
   },
